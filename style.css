@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Ubuntu'; 
+  src: local('UbuntuMono'),
+    url(fonts/UbuntuMono/UbuntuMono-Regular.ttf); 
+}
+
+
+@font-face {
+  font-family: 'Comfortaa'; 
+  src: local('Comfortaa'),
+    url(fonts/Comfortaa/Comfortaa-Regular.ttf); 
+}
+
+@font-face {
+  font-family: 'Jura'; 
+  src: local('Jura'),
+    url(fonts/Jura/Jura-Regular.ttf); 
+}
+
+@font-face {
+  font-family: 'Play'; 
+  src: local('Play'),
+    url(fonts/Play/Play-Regular.ttf); 
+}
+
+@font-face {
+  font-family: 'PoiretOne'; 
+  src: local('PoiretOne'),
+    url(fonts/PoiretOne/PoiretOneRegular.ttf); 
+}
+
+
+
+h1 {
+  margin-top: 30vh;
+  font-family: 'PoiretOne';
+  color: #ffffff;
+  text-align: center;
+  font-size: 8vh;
+  text-shadow: 2px 2px 2px #7e7e7e;
+}
